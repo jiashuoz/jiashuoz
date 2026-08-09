@@ -22,6 +22,8 @@ Founder of **[Token Canopy](https://www.tokencanopy.com)**. I build infrastructu
 
 At **Google (2020–2026)**, I worked across cloud automation, data infrastructure, and AI-assisted data engineering—including **[Google Cloud Workflows](https://cloud.google.com/workflows/docs)**. I also initiated and led a data-engineering agent for core data-processing infrastructure.
 
+I also contributed to platform development for **[Stanford ADRC's SPHERE Research Data Hub](https://adrc-sphere.stanford.edu/)**, a research platform for exploring privacy-preserving synthetic, multi-omics data.
+
 ---
 
 ## Background
