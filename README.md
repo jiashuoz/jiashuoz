@@ -24,14 +24,6 @@ At **Google (2020–2026)**, I worked across cloud automation, data infrastructu
 
 ---
 
-## Selected open source
-
-- **[talent-engine](https://github.com/jiashuoz/talent-engine)** — AI infrastructure for résumé and job-description parsing and matching.
-- **[jiashuoz.com](https://github.com/jiashuoz/jiashuoz.com)** — the source for my personal website.
-- **[32-bit Pipelined CPU](https://github.com/jiashuoz/32-bit-Pipelined-CPU)** — a SystemVerilog implementation of a pipelined MIPS CPU.
-
----
-
 ## Background
 
 - **Princeton University** — M.S.E. in Computer Science
