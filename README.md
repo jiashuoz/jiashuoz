@@ -1,6 +1,6 @@
-<img align="right" src="./assets/token-canopy.svg" alt="Token Canopy" width="76" />
-
 # Hi, I'm Josh Zhang 👋
+
+<img align="right" src="./assets/token-canopy.svg" alt="Token Canopy" width="56" />
 
 Founder of **[Token Canopy](https://www.tokencanopy.com)**. I build infrastructure for AI agents and the people who work with them.
 
