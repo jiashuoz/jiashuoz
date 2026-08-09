@@ -20,7 +20,7 @@ Founder of **[Token Canopy](https://www.tokencanopy.com)**. I build infrastructu
 
 ## Earlier work
 
-At **Google (2020–2026)**, I was a **Senior Software Engineer** working across cloud automation, data infrastructure, and AI-assisted data engineering—including **[Google Cloud Workflows](https://cloud.google.com/workflows/docs)**. I also initiated and led a data-engineering agent for core data-processing infrastructure, taking it from a hackathon pitch to a fully funded team.
+At **Google (2020–2026)**, I was a **Senior Software Engineer** working across cloud automation, data infrastructure, and AI-assisted data engineering—including **[Google Cloud Workflows](https://cloud.google.com/workflows/docs)**. My data-infrastructure work focused on Google's core data-processing platform—now part of its AI foundation—which powers some of Google's largest-scale data pipelines. I also initiated and led a data-engineering agent for this platform, taking it from a hackathon pitch to a fully funded team.
 
 In 2026, I briefly joined **Resolve AI** before choosing the founder path and starting **Token Canopy**.
 
