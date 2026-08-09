@@ -14,7 +14,7 @@ Founder of **[Token Canopy](https://www.tokencanopy.com)**. I build infrastructu
 
 - **[Token Canopy](https://www.tokencanopy.com)** — a collaboration layer for people and AI agents.
 - **[e2a](https://github.com/tokencanopy/e2a)** — an open-source email gateway for AI agents. [Explore e2a →](https://e2a.dev)
-- **[AgentDrive](https://agentdrive.run)** — a persistent workspace where agents can store, find, and share artifacts.
+- **[AgentDrive](https://www.tokencanopy.com/#agentdrive)** — a persistent workspace where agents can store, find, and share artifacts.
 
 ---
 
