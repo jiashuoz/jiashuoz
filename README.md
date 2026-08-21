@@ -4,7 +4,7 @@
 
 Founder of **[Token Canopy](https://www.tokencanopy.com)**. I build infrastructure for AI agents and the people who work with them.
 
-[Website](https://joshz.ai) · [LinkedIn](https://www.linkedin.com/in/josh-zhang) · [X](https://x.com/joshzjs)
+[Website](https://joshz.ai) · [LinkedIn](https://www.linkedin.com/in/josh-zhang) · [X](https://x.com/joshzjs) · [Sponsor](https://github.com/sponsors/jiashuoz)
 
 <br clear="right" />
 
